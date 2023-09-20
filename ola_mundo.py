@@ -1,4 +1,4 @@
-print("Exercício 04:")
+pprint("Exercício 04:")
 print("-"*13)
 teste = float(input("Digite a nota do teste: "))
 trab = float(input("Digite a nota do trabalho: "))
